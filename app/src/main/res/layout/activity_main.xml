@@ -42,7 +42,7 @@
             <Button style="@style/Button3"
                 android:id="@+id/allClear"
                 android:text="AC"
-                android:textSize="25dp"
+                android:textSize="24dp"
                 android:textColor="@color/deep_blue"/>
             <Button style="@style/Button1"
                 android:id="@+id/seven"
